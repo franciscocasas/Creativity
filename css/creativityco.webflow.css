@@ -570,7 +570,9 @@ a {
   background-size: auto 30px;
   background-repeat: no-repeat;
   color: #000;
-  font-weight: 800;
+font-weight: 800;
+   transition: all 0.2s ease;
+
 }
 
 .div-block-2 {
