@@ -1,0 +1,110 @@
+
+@media screen and (min-width: 1280px) {
+  .inicio {
+    margin-bottom: 0px;
+  }
+  .inicio.section-1 {
+    margin-bottom: 128px;
+  }
+  .contenedor2 {
+    margin-bottom: 0px;
+  }
+  .button {
+    font-size: 19px;
+  }
+  .diferenciate.banner {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    overflow: hidden;
+    height: 100vh;
+    margin-bottom: 128px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+  .diferenciate.banner.section-1 {
+    line-height: 19px;
+  }
+  .como-hacemos.flexbon-para-imagen {
+    margin-top: 0px;
+    margin-bottom: 20px;
+  }
+  .como-hacemos.flexbon-para-imagen.margin-top {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .heading-3 {
+    overflow: visible;
+    font-size: 120px;
+    line-height: 130px;
+  }
+  .heading-4 {
+    overflow: visible;
+    font-size: 120px;
+    line-height: 200px;
+  }
+  .submit-button {
+    background-color: #000;
+    background-position: 70% 50%;
+  }
+  .submit-button:hover {
+    background-color: #e552b0;
+    background-position: 70% 50%;
+    font-size: 24px;
+  }
+  .cuadrado-negro {
+    height: 110px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: #000;
+  }
+  .text-span-2.title {
+    display: block;
+    margin-bottom: 10px;
+    padding-bottom: 0px;
+    background-color: transparent;
+    color: #000;
+    font-size: 70px;
+    font-weight: 800;
+  }
+  .section-contacto {
+    height: 100vh;
+    margin-bottom: 80px;
+  }
+  .div-block-4 {
+    margin-bottom: 0px;
+  }
+  .section-1 {
+    height: auto;
+    margin-top: 0px;
+    margin-bottom: 128px;
+  }
+  .section-1.margin-top {
+    margin-bottom: 128px;
+  }
+  .div-block-7 {
+    margin-bottom: 0px;
+  }
+  .div-block-8 {
+    margin-bottom: 0px;
+  }
+  .footer {
+    padding-right: 60px;
+    padding-left: 60px;
+  }
+  .heading-8 {
+    margin-right: 60px;
+  }
+  .footer-izquierdo {
+    margin-right: 60px;
+    padding-right: 0px;
+  }
+}

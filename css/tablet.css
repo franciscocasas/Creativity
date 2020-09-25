@@ -1,0 +1,223 @@
+
+@media screen and (max-width: 991px) {
+  .inicio {
+    margin-bottom: 0px;
+  }
+  .contenedor2 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .contenedor2.nn {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .heading {
+    font-size: 68px;
+    line-height: 60px;
+  }
+  .paragraph {
+    background-color: transparent;
+    font-size: 28px;
+    line-height: 48px;
+  }
+  .nav-link {
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 18px;
+  }
+  .nav-link.nav-button {
+    margin-left: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+  .nav-link.nav-inicio {
+    padding-right: 10px;
+    padding-left: 0px;
+  }
+  .nav-link.nav-inicio.w--current {
+    padding-right: 10px;
+    font-size: 18px;
+  }
+  .diferenciate.banner {
+    margin-bottom: 0px;
+  }
+  .diferenciate.banner.section-1 {
+    margin-top: 0px;
+    margin-bottom: 100px;
+  }
+  .como-hacemos.flexbon-para-imagen.margin-top {
+    margin-bottom: 0px;
+  }
+  .heading-3 {
+    overflow: visible;
+    font-size: 80px;
+    line-height: 150px;
+  }
+  .heading-4 {
+    overflow: visible;
+    font-size: 80px;
+    line-height: 150px;
+  }
+  .cuadrado-rosa-2 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .heading-2-copy {
+    margin-left: 50px;
+    font-size: 45px;
+    line-height: 45px;
+  }
+  .paragraph-3 {
+    font-size: 18px;
+    line-height: 35px;
+  }
+  .paragraph-elegir {
+    font-size: 18px;
+    line-height: 35px;
+    letter-spacing: 0em;
+  }
+  .paragraph-5 {
+    font-size: 18px;
+  }
+  .field-label {
+    font-size: 18px;
+  }
+  .form-block {
+    margin-left: 40px;
+  }
+  .form {
+    width: 300px;
+  }
+  .submit-button {
+    background-position: 90% 50%;
+  }
+  .submit-button:hover {
+    width: 100%;
+    background-position: 90% 50%;
+  }
+  .dropdown-trigger.texxt-servicios {
+    width: 150px;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  .dropdown-content {
+    width: 150px;
+  }
+  .dropdown-link {
+    width: 150px;
+    padding-right: 25px;
+  }
+  .cuadrado-negro {
+    width: 95%;
+    height: 120px;
+  }
+  .text-span-2.title {
+    font-size: 45px;
+    font-weight: 800;
+  }
+  .text-block {
+    font-size: 11px;
+    line-height: 24px;
+  }
+  .text-servicio-hover {
+    font-size: 12px;
+    line-height: 24px;
+  }
+  .arrow-contact {
+    margin-top: 0px;
+    margin-bottom: 60px;
+  }
+  .section-contacto {
+    margin-bottom: 0px;
+  }
+  .text-block-8 {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .text-block-9 {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .text-block-10 {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .image-5-hcemis {
+    max-width: 45%;
+    margin-right: 20px;
+    margin-left: 10px;
+    font-size: 13px;
+  }
+  .div-block-4 {
+    margin-bottom: 0px;
+  }
+  .section-1 {
+    margin-top: 0px;
+    margin-bottom: 100px;
+  }
+  .section-1.contact-section {
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+  .section-1.margin-top {
+    margin-top: 220px;
+  }
+  .image-9 {
+    margin-left: 10px;
+  }
+  .text-span-9 {
+    background-color: #e552b0;
+  }
+  .heading-7 {
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 18px;
+    text-align: center;
+  }
+  .paragraph-6 {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+  .div-block-7 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .text-block-11 {
+    width: 100%;
+  }
+  .div-block-8 {
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+  .heading-8 {
+    font-size: 58px;
+    line-height: 70px;
+  }
+  .div-block-9 {
+    height: 280px;
+  }
+  .insta-image {
+    height: 30px;
+  }
+  .link {
+    font-size: 15px;
+  }
+  .paragraph-7 {
+    font-size: 8px;
+  }
+  .bold-text {
+    font-size: 30px;
+  }
+  .bold-text-2 {
+    font-size: 30px;
+  }
+  .bold-text-3 {
+    font-size: 30px;
+  }
+  .text-block-13 {
+    font-size: 10px;
+    line-height: 15px;
+  }
+}
